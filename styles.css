@@ -1,0 +1,47 @@
+
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    padding: 1rem;
+    background: #333;
+    color: #fff;
+}
+
+header nav a {
+    margin: 0 10px;
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 1.5rem;
+    max-width: 800px;
+    margin: auto;
+}
+
+h2 {
+    color: #333;
+}
+
+.project {
+    margin-bottom: 1rem;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #333;
+    color: #fff;
+}
